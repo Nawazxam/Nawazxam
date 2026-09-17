@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nawazxam/Nawazxam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:9d00ff,100:00fff2&height=220&section=header&text=Nawaz%20Kapadia&fontSize=55&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=sudo%20make%20me%20better&descAlignY=58&descSize=20&descColor=9d00ff" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=AWS+Cloud+%7C+Cybersecurity;Linux+Curious+%F0%9F%90%A7;Breaking+labs%2C+not+laws+%F0%9F%94%93" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/PROFILE%20STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00fff2"/>
+
+</div>
+
+---
+
+### 🧠 `whoami`
+
+```yaml
+name: "Nawaz Kapadia"
+handle: "@Nawazxam"
+pronouns: "he/him"
+focus: ["AWS Cloud", "Cybersecurity", "Linux Systems"]
+philosophy: "sudo make me better"
+motto: "Breaking labs, not laws 🔓"
+```
+
+---
+
+### ⚡ Tech Arsenal
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00fff2)
+![Shell Script](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=9d00ff)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00fff2)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=9d00ff)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF9900)
+![Termux](https://img.shields.io/badge/Termux-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=00fff2)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00fff2)
+
+</div>
+
+---
+
+### 📊 GitHub Vitals
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nawazxam&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9&ring_color=9d00ff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazxam&theme=dark&hide_border=true&background=0d0d0d&ring=00fff2&fire=9d00ff&currStreakLabel=00fff2" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazxam&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/Nawazxam/Aetherix-OS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nawazxam&repo=Aetherix-OS&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Nawazxam/aws-3-tier-architecture-enterprise">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nawazxam&repo=aws-3-tier-architecture-enterprise&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9"/>
+</a>
+</div>
+
+---
+
+### 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nawaz-kapadia1"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00fff2"/></a>
+<a href="mailto:nawazkapadia05@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d00ff"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:9d00ff,100:0d0d0d&height=100&section=footer"/>
+
+</div>
