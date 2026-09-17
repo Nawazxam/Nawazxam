@@ -58,12 +58,30 @@ motto: "Breaking labs, not laws 🔓"
 ### 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Nawazxam/Aetherix-OS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nawazxam&repo=Aetherix-OS&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Nawazxam/aws-3-tier-architecture-enterprise">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nawazxam&repo=aws-3-tier-architecture-enterprise&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9"/>
-</a>
+
+<table>
+<tr>
+<td width="50%">
+
+**[🐧 Aetherix-OS](https://github.com/Nawazxam/Aetherix-OS)**
+<br/>
+A beginner-friendly educational Linux distro built on Ubuntu XFCE.
+<br/>
+`Shell`
+
+</td>
+<td width="50%">
+
+**[☁️ aws-3-tier-architecture-enterprise](https://github.com/Nawazxam/aws-3-tier-architecture-enterprise)**
+<br/>
+Enterprise-grade AWS 3-tier architecture setup.
+<br/>
+`AWS`
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -72,8 +90,9 @@ motto: "Breaking labs, not laws 🔓"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/nawaz-kapadia1"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00fff2"/></a>
-<a href="mailto:nawazkapadia05@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d00ff"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00fff2"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=00fff2"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d00ff"/></a>
 
 </div>
 
