@@ -46,10 +46,17 @@ motto: "Breaking labs, not laws 🔓"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nawazxam&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&icon_color=9d00ff&text_color=c9d1d9&ring_color=9d00ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazxam&theme=dark&hide_border=true&background=0d0d0d&ring=00fff2&fire=9d00ff&currStreakLabel=00fff2" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazxam&theme=dark&hide_border=true&background=0d0d0d&ring=00fff2&fire=9d00ff&currStreakLabel=00fff2" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazxam&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00fff2&text_color=c9d1d9" width="49%"/>
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Nawazxam?style=for-the-badge&labelColor=0d0d0d&color=00fff2&logo=github"/>
+<img src="https://img.shields.io/github/stars/Nawazxam?style=for-the-badge&labelColor=0d0d0d&color=9d00ff&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d0d0d&color=00fff2&label=Repos&query=public_repos&url=https://api.github.com/users/Nawazxam&logo=github"/>
+
+<br/><br/>
+
+**Top Languages:** ![Shell](https://img.shields.io/badge/Shell-9d00ff?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-00fff2?style=flat-square&logo=python&logoColor=black)
 
 </div>
 
