@@ -51,7 +51,7 @@ motto: "Breaking labs, not laws 🔓"
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Nawazxam?style=for-the-badge&labelColor=0d0d0d&color=00fff2&logo=github"/>
-<img src="https://img.shields.io/github/stars/Nawazxam?style=for-the-badge&labelColor=0d0d0d&color=9d00ff&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d0d0d&color=9d00ff&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Nawazxam&logo=github"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d0d0d&color=00fff2&label=Repos&query=public_repos&url=https://api.github.com/users/Nawazxam&logo=github"/>
 
 <br/><br/>
